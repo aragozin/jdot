@@ -1,15 +1,15 @@
 jdot
 =========
 
-[Graphviz][http://www.graphviz.org/] is an excelent open source tool for visualizing graph.
+[Graphviz](http://www.graphviz.org/) is an excelent open source tool for visualizing graph.
 Graphviz is writter in C and distribute via platfrom specific binarires.
 
 Native binaries is an issue for integrating to Java native toolset.
 
 There were [some attempts](http://plantuml.sourceforge.net/jdot/jdot.html)
-to port [Graphviz][http://www.graphviz.org/] to Java without much success so far.
+to port [Graphviz](http://www.graphviz.org/) to Java without much success so far.
 
-Though, there is crosscompilation of [Graphviz][http://www.graphviz.org/] to JavaScript -
+Though, there is crosscompilation of [Graphviz](http://www.graphviz.org/) to JavaScript -
 [viz.js](http://viz-js.com/).
 
 
